@@ -231,7 +231,6 @@ header {
 }
 .ourcourse {
   display: flex;
-  justify-content: flex-start;
   padding: 0 32px 0 32px;
   flex-direction: column;
 }
@@ -240,30 +239,6 @@ header {
   flex-direction: column;
   width: 300px;
   height: auto;
-}
-.course-1:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
-}
-.course-2:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
-}
-.course-3:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
-}
-.course-4:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
-}
-.course-5:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
-}
-.content-6:hover {
-  box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.3s;
 }
 .course-2 {
   display: flex;
@@ -294,6 +269,30 @@ header {
   flex-direction: column;
   width: 300px;
   height: auto;
+}
+.course-1:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
+}
+.course-2:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
+}
+.course-3:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
+}
+.course-4:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
+}
+.course-5:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
+}
+.course-6:hover {
+  box-shadow: 5px 5px 20px grey;
+  transition: box-shadow 0.3s;
 }
 .course-1 img {
   width: 300px;
