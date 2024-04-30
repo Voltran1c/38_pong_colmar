@@ -239,29 +239,29 @@ header {
   width: 300px;
   height: auto;
 }
-.content-1:hover {
+.course-1:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
-.content-2:hover {
+.course-2:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
-.content-3:hover {
+.course-3:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
-.content-4:hover {
+.course-4:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
-.content-5:hover {
+.course-5:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
 .content-6:hover {
   box-shadow: 5px 5px 20px grey;
-  transition: box-shadow 0.8s;
+  transition: box-shadow 0.3s;
 }
 .course-2 {
   display: flex;
@@ -404,14 +404,14 @@ header {
 .start-content-1 {
   display: flex;
   justify-content: space-around;
-  padding: 0 32px 0 0;
-  height: 400px;
+  padding: 0 32px 32px 0;
+  height: auto;
 }
 .start-content-2 {
   display: flex;
   justify-content: space-around;
-  padding: 0 32px 0 0;
-  height: 400px;
+  padding: 0 32px 32px 0;
+  height: auto;
 }
 
 /* SECTION THESIS */
